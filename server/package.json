@@ -1,0 +1,11 @@
+{
+  "name": "gestify-api",
+  "version": "1.0.0",
+  "description": "RESTful API Services for schedulling appointments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juanma Ortiz & Miriam Duran",
+  "license": "ISC"
+}
